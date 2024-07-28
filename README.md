@@ -1,4 +1,3 @@
 Titanic Survival Prediction
 
-
-https://logisticmodel.streamlit.app/
+https://logistic-regressionn.streamlit.app/
