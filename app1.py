@@ -51,4 +51,5 @@ else:
 if st.button("Predict Survival"):
     result = clf.predict(np.array([[age,fare,fs,pc,boarding,1,1,1]]))
     st.text(result[0])
-   
+
+st.markdown("Developed by Suman Kamti at NIELIT Daman")
